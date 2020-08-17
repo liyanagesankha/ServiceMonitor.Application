@@ -1,0 +1,12 @@
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.csproj.CoreCompileInputs.cache
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.AssemblyInfoInputs.cache
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.AssemblyInfo.cs
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.exe
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.deps.json
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.runtimeconfig.json
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.runtimeconfig.dev.json
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.dll
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\bin\Debug\netcoreapp3.1\ServiceMonitor.Console.pdb
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.dll
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.pdb
+C:\Users\sankha.liyanage\source\repos\ServiceMonitor.Console\ServiceMonitor.Console\obj\Debug\netcoreapp3.1\ServiceMonitor.Console.genruntimeconfig.cache

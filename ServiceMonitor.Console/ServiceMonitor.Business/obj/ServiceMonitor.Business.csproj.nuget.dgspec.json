@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.Business\\ServiceMonitor.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.Business\\ServiceMonitor.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.Business\\ServiceMonitor.Business.csproj",
+        "projectName": "ServiceMonitor.Business",
+        "projectPath": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.Business\\ServiceMonitor.Business.csproj",
+        "packagesPath": "C:\\Users\\sankha.liyanage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sankha.liyanage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\ServiceMonitor.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\ServiceMonitor.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\ServiceMonitor.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\ServiceMonitor.DataAccess.csproj",
+        "projectName": "ServiceMonitor.DataAccess",
+        "projectPath": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\ServiceMonitor.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\sankha.liyanage\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sankha.liyanage\\Desktop\\New\\ServiceMonitor.Console\\ServiceMonitor.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sankha.liyanage\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
